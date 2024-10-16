@@ -1,5 +1,5 @@
-# [Discipline Code]
-[Discipline name]
+# SME0828
+Introdução à Ciência de Dados
 
 # Pastas por tópicos:
 
